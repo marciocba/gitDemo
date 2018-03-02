@@ -1,0 +1,12 @@
+ O volume na unidade C ‚ OS
+ O N£mero de S‚rie do Volume ‚ FEC1-AC86
+
+ Pasta de C:\Users\mmoraes\Documents\gitDemo
+
+02/03/2018  11:49    <DIR>          .
+02/03/2018  11:49    <DIR>          ..
+02/03/2018  11:38               356 a.txt
+02/03/2018  11:38               399 b.txt
+02/03/2018  11:49                 0 c.txt
+               3 arquivo(s)            755 bytes
+               2 pasta(s)   862.116.589.568 bytes dispon¡veis
