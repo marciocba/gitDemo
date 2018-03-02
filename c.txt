@@ -3,10 +3,8 @@
 
  Pasta de C:\Users\mmoraes\Documents\gitDemo
 
-02/03/2018  11:49    <DIR>          .
-02/03/2018  11:49    <DIR>          ..
 02/03/2018  11:38               356 a.txt
 02/03/2018  11:38               399 b.txt
-02/03/2018  11:49                 0 c.txt
+02/03/2018  11:53                 0 c.txt
                3 arquivo(s)            755 bytes
-               2 pasta(s)   862.116.589.568 bytes dispon¡veis
+               0 pasta(s)   862.102.925.312 bytes dispon¡veis
