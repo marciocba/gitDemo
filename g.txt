@@ -1,0 +1,11 @@
+* 9a116be (feature3) g.txt
+*   0c67075 (HEAD -> master) Merge branch 'feature2'
+|\  
+| * 6ae5112 e.txt
+* | 7ad49f8 f.txt
+|/  
+* 659ea96 d.txt
+* a71b140 alterando aarqiovo para c2.txt
+* 766249d alterando c.txt
+* 1193ac9 c.txt
+* d3670fd a.txt e b.txt
